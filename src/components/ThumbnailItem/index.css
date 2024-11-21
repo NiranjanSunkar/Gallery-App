@@ -1,0 +1,16 @@
+.list-container {
+  list-style-type: none;
+  display: flex;
+  margin-bottom: 10px;
+}
+.btn {
+  background-color: white;
+  border-width: 0px;
+  cursor: pointer;
+}
+.Active {
+  opacity: 1;
+}
+.thumbnail {
+  opacity: 0.5;
+}
